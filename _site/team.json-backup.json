@@ -1,0 +1,567 @@
+[
+  {
+    "name": "Alan Tisch",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Alan_T.jpg",
+    "bio": "Alan previously worked at Fab, and before that launched initiatives such as NYC Big Apps and the 311 iOS app at NYC City Hall. He has an MBA from NYU Stern and a BBA from Michigan Ross School of Business, but more importantly he has a sneaker addiction and is always up for a game of FIFA.",
+    "team": "founders",
+    "role": "CEO",
+    "where": "On a jetski"
+  },
+  {
+    "name": "Andrew Shipman",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Andrew_S.jpg",
+    "bio": "Andrew works with Spring's awesome brands. He is passionate about tech, design, art, and juice.",
+    "team": "operations",
+    "role": "Brand Specialist",
+    "where": "everywhere"
+  },
+  {
+    "name": "David Tisch",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/David_T.jpg",
+    "bio": "David Tisch is Managing Partner of BoxGroup, an NYC-based angel capital firm, as well as Head of Startup Studio at Cornell Tech. He is the co-founder of TechStars NYC and served on Mayor Bloomberg’s Advisory Council on Technology. He likes wearing hoodies and enjoys using ellipses...",
+    "team": "founders",
+    "role": "Founder & Chairman of the Board",
+    "where": "Primarily on my mobile telephone"
+  },
+  {
+    "name": "Dan Zeehandelaar",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Dan_Z.jpg",
+    "bio": "Dan was an early employee at Birchbox, where he helped develop the company's operations systems. Before that, he worked as a strategy consultant. He's an airplane geek and a private pilot, and loves to collect and spend frequent flyer miles.",
+    "team": "engineering",
+    "role": "Product Manager",
+    "where": "In line for takeoff!"
+  },
+  {
+    "name": "Jim Grandpre",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Jim_G.jpg",
+    "bio": "Jim dropped out of UPenn to found, build, and eventually sell Lore. He enjoys building things and frequently wears orange.",
+    "team": "engineering",
+    "role": "Engineer",
+    "where": "40.1537148,-74.0272197"
+  },
+  {
+    "name": "Artem Titoulenko",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Artem_T.jpg",
+    "bio": "Artem is a young soul who has loved programming since an early age. He was part of the first Hacker School class and later went on to build products at Codecademy and Medium. He's an avid sailor and cyclist with an insufferable love for New York and electronic music.",
+    "team": "engineering",
+    "role": "Software Engineer",
+    "where": "Wherever the bodega cats lead me"
+  },
+  {
+    "name": "Katherine Prime",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Katherine_P.jpg",
+    "bio": "Katherine previously worked at Amazon, where she launched Casa.com, and AOL, where she served as GM of Style & Home. She has an MBA from Harvard and a BA from Yale. Katherine is a real New Yorker whose first word was “bagel,” but she harbors a secret love of Garth Brooks.",
+    "team": "operations",
+    "role": "VP Operations",
+    "where": "Where DON'T I Spring"
+  },
+  {
+    "name": "Tessa Mu",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Tessa_M.jpg",
+    "bio": "Tessa comes from Marc Jacobs, where she built the brand's online presence from the ground up, reaching 6.2MM followers and landing accolades such as Best Facebook, Twitter, and Instagram by a Fashion Brand. She is an advocate of all things fashion and tech, and likes dogs a lot, too.",
+    "team": "marketing",
+    "role": "Head of Digital/Social Media",
+    "where": "Everywhere!"
+  },
+  {
+    "name": "Arielle Welt",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Arielle_W.jpg",
+    "bio": "Arielle's experience spans luxury and contemporary markets: She has worked agency-side in PR and brand-side in Wholesale. She helped launch Rachel Zoe's RTW collection and most recently spent time at CÉLINE. Arielle enjoys bad television, good sushi, and fabulous shoes (and any combo of the three).",
+    "team": "operations",
+    "role": "Director of Brand Strategy",
+    "where": "While waiting on lines!"
+  },
+  {
+    "name": "Anis Rashid",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Anis_R.jpg",
+    "bio": "Anis previously worked in tech banking at Goldman Sachs, where he was involved in Disney's acquisition of LucasFilm, zulily's IPO, and DirecTV's sale to AT&T. Previously, Anis tried to build a social blogging platform called Opin. He spends his free time buying Twitter followers.",
+    "team": "operations",
+    "role": "Brand Operations",
+    "where": "\"in the mall it's goin down\""
+  },
+  {
+    "name": "April Uchitel",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/April_U.jpg",
+    "bio": "April is fashion veteran with 25+ years experience in sales, merchandising, and strategy. She spent 9 years developing DVF and has served as a CFDA incubator mentor and a brand consultant. April has a chai latte addiction, a penchant for RED lipstick, and spends down time upstate with her family.",
+    "team": "brand",
+    "role": "Chief Brand Officer",
+    "where": "On the bus"
+  },
+  {
+    "name": "Sam Nirenberg",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Sam_N.jpg",
+    "bio": "Sam's career started in LA as a wardrobe stylist while at FIDM. Next, at BeachMint, she produced video and photo content for direct-to-consumer brands. In 2014, Sam left the sunny beaches of Malibu for NYC. When not working, she's likely scouting the streets for live music.",
+    "team": "operations",
+    "role": "Brand Manager",
+    "where": "When rollin' w/ the homies"
+  },
+  {
+    "name": "Mindy Welford",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Mindy_W.jpg",
+    "bio": "Mindy has developed email marketing strategies at retailers including From You Flowers, Penguin Random House Publishing, and Dylan's Candy Bar. She is a born-and-raised Michigander who loves David Lynch films, speaks Spanish and Hebrew, and enjoys extremely high-waisted jeans.",
+    "team": "marketing",
+    "role": "Email & CRM",
+    "where": "In bed."
+  },
+  {
+    "name": "Ara Katz",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Ara_K.jpg",
+    "bio": "Ara is a founder of BeachMint and advises a variety of startups. She is a CCA DesignMBA Fellow and a Visiting Fellow at MIT Media Lab's Center for Future Storytelling. She has consulted with the Department of Defense and Mullen, and loves all things design (including designing her own furniture).",
+    "team": "founders",
+    "role": "Chief Marketing Officer",
+    "where": "everywhere"
+  },
+  {
+    "name": "Brian Eoff",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Brian_E.jpg",
+    "bio": "Brian was wooed away from his PhD at Texas A&M by the bright lights of Broadway. He was previously the lead data scientist at Bitly. Brian is originally from Huntsville, Alabama, and he too is unsure what happened to his southern accent. He has a perfectly healthy obsession with Auburn football.",
+    "team": "engineering",
+    "role": "Data Scientist",
+    "where": "everywhere"
+  },
+  {
+    "name": "Jeff Tierney",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Jeff_T.jpg",
+    "bio": "After working at a large insurance company, Jeff saw the light and switched to startups. He previously led front-end development at Bitly. He lives with his wife and three kids in NJ, where he roots for the Jets and Yankees, sings along to Springsteen, and scours the Internet for the perfect GIF.",
+    "team": "engineering",
+    "role": "Animated Gif",
+    "where": "everywhere"
+  },
+  {
+    "name": "Scott Amenta",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Scott_A.jpg",
+    "bio": "Scott has worked at a variety of NYC-based technology startups, including Foursquare, TechStars, and ChatID. At ChatID, Scott was responsible for building partnerships with some of the world's largest consumer electronic brands. In his free time, Scott rides his fixie around the city.",
+    "team": "brand",
+    "role": "Business Development",
+    "where": "Out in the wild"
+  },
+  {
+    "name": "Octavian Costache",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Octavian_C.jpg",
+    "bio": "Octavian is an ex-Googler: author of Multiple Inboxes in Gmail, Charts on Google Finance, and contributions to Google Maps and Maps Search. He's written code in Javascript, Actionscript, Java, C++, Ruby, ObjectiveC, and   Go. He likes skydiving, paragliding, and pretending to be Borat.",
+    "team": "founders",
+    "role": "CTO",
+    "where": "everywhere"
+  },
+  {
+    "name": "Sonia Tsao",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Sonia_T.jpg",
+    "bio": "Sonia's background is in real estate and lifestyle partnerships, and she has also worked with Chanel and Conde Naste Traveler. She holds a BA in Anthropology from Tufts and an MBA from Harvard. A Singapore transplant, Sonia loves spicy food, jumpsuits, and running after her pup, Rex.",
+    "team": "operations",
+    "role": "Brand Manager",
+    "where": "everywhere"
+  },
+  {
+    "name": "Vadim Graboys",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Vadim_G.jpg",
+    "bio": "Vadim previously built simulation engines for mortgage-backed securities at Bloomberg before starting a Bitcoin exchange. He also spent time creating transaction-processing infrastructure at Chartbeat. Vadim enjoys hiking, biking, and psychedelic trance festivals.",
+    "team": "engineering",
+    "role": "Software Engineer",
+    "where": "In a sensory deprivation tank"
+  },
+  {
+    "name": "Viviana Rodriguez",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Viviana.jpg",
+    "bio": "Viviana comes from finance, where she expanded a commodities business into Latin America and focused on client acquisition, marketing, and relationship management. She left the beaches of Puerto Rico to attend Yale, and now pursues warm weather to stay sane. Although food and wine also do the trick.",
+    "team": "operations",
+    "role": "Director of Customer Operations",
+    "where": "everywhere"
+  },
+  {
+    "name": "Alan Wang",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Alan_W.jpg",
+    "bio": "A Cal graduate with an MS in structural engineering, Alan spent 2 years designing buildings before attending the Recurse Center and moving to software. He enjoys games of all kinds, and can tell you more about concrete and steel than you would ever care to know.",
+    "team": "engineering",
+    "role": "Software Engineer",
+    "where": "While walking into Mordor"
+  },
+
+  {
+    "name": "Adam Fried",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Adam_F.jpg",
+    "bio": "Adam has developed a variety of software, from embedded to mobile apps. He previously worked at BlackRock and Lockheed Martin. He holds a BS in Computer Eng. and an MBA from SUNY Binghamton, and a Master's in Systems Eng. from Cornell. Adam enjoys hiking, biking, and skiing.",
+    "team": "engineering",
+    "role": "Software Engineer",
+    "where": "everywhere"
+  },
+  {
+    "name": "Andrew Adams",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Andrew_A.jpg",
+    "bio": "A recent Stanford grad (BA '13, MS '14), Andrew worked in early-stage VC for SoftBank Capital and Forerunner Ventures, and as a software engineering intern for Amazon and One Kings Lane. Andrew enjoys playing and watching soccer, running marathons, and doing occasional artsy things.",
+    "team": "engineering",
+    "role": "Product Analyst",
+    "where": "on bad dates"
+  },
+
+  {
+    "name": "Chaz Yoon",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Chaz_Y.jpg",
+    "bio": "Chaz iz chaz. Obvz.",
+    "team": "engineering",
+    "role": "VP, Business Intelligence",
+    "where": "🚀"
+  },
+  {
+    "name": "Chris Fahey",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Chris_F.jpg",
+    "bio": "Chris helps Spring's team of awesome designers be even more awesome. With over 20 years experience, he has led interaction design teams at ZocDoc, Big Spaceship, and Behavior, a firm he cofounded. Chris likes to juggle and run long distances, but never at the same time.",
+    "team": "design",
+    "role": "VP Product Design",
+    "where": "While riding my bike in heavy traffic."
+  },
+  {
+    "name": "Courtney Ortiz",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Courtney_O.jpg",
+    "bio": "Courtney graduated from Boston University with a BA in Anthropology, but has spent most of her career leading web-based technology projects. In her spare time she enjoys cooking, traveling, and playing golf.",
+    "team": "engineering",
+    "role": "Director, Platform Integrations",
+    "where": "At the dog park."
+  },
+  {
+    "name": "Dan Chen",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Dan_C.jpg",
+    "bio": "A native New Yorker, Dan has launched products for Mercedes-Benz, The New York Times, and Samsung. When he's not designing, Dan can be found visiting galleries or planning his next trip into the backcountry.",
+    "team": "design",
+    "role": "Product Designer",
+    "where": "everywhere"
+  },
+  {
+    "name": "Daniel Ortiz",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Daniel_O.jpg",
+    "bio": "Daniel graduated from The Wharton School in 2014. Before joining Spring, he started his career in Macy's Merchandising Group, helping to develop its American Rag brand. He lived in Florida for most of his life, interspersed with trips to Ecuador to visit his family.",
+    "team": "operations",
+    "role": "Brand Manager",
+    "where": "Someplace clever and weird"
+  },
+  {
+    "name": "Dianna Cohen",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Dianna_C.jpg",
+    "bio": "Dianna has worked for a variety of NYC-based fashion and technology startups, including Into The Gloss and Beyond The Row. She previously spent time at Valentino, Philip Crangi's Giles & Brother, and Thakoon. She’s an art and design nerd; a comedy geek; and a leather pants enthusiast.",
+    "team": "marketing",
+    "role": "Strategic Marketing Manager",
+    "where": "After I call an uber, before I order seamless."
+  },
+
+  {
+    "name": "Erin Gusty",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Erin_G.jpg",
+    "bio": "Erin has a BA from Denison University and has worked with Toll Brothers marketing homes across the country. She is a recent college grad and is excited to leave her small Pennsylvania town to join the startup world of NYC. Erin has a passion for traveling and learning new languages.",
+    "team": "operations",
+    "role": "Customer Service Representative",
+    "where": "In Trader Joes"
+  },
+
+  {
+    "name": "Imran Sobh",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Imran_S.jpg",
+    "bio": "Imran has helped companies of all sizes design and launch products from wearables to websites. One of his favorites so far is Nike+ Basketball — the first shoe to track how high you jump. He bikes as much as possible to offset his unhealthy obsession with donuts.",
+    "team": "design",
+    "role": "Product Designer",
+    "where": "oh god how did this get here I am not good with computer"
+  },
+  {
+    "name": "Lauren Devereux",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Lauren_D.jpg",
+    "bio": "Lauren has worked at a number of NYC-based fashion and media startups, including Zady and #waywire. She holds a BA from Loyola Marymount in Los Angeles, and swears she doesn't miss the sunshine. When she’s not working, Lauren's usually making or baking something, or chasing her dog, Pearl.",
+    "team": "marketing",
+    "role": "Marketing Manager",
+    "where": "Where I stand, eat and lay"
+  },
+  {
+    "name": "Leslie Fish",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Leslie_F.jpg",
+    "bio": "Leslie previously worked for a leading hedge fund, managing the firm's strategic relationships and conducting research projects on global retail and fashion companies. In her down time, she frequents Shake Shack and takes Tuxedo, her Boston Terrier, on long walks.",
+    "team": "operations",
+    "role": "Brand Manager",
+    "where": "In line for snacks"
+  },
+  {
+    "name": "Lisa Zhu",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Lisa_Z.jpg",
+    "bio": "Lisa used to work at PayPal, where she product-managed fingerprint payments and merchant onboarding. Before that, she graduated from Penn and lived a nomadic life as a McKinsey consultant. Lisa enjoys running marathons and travel; she has 53 passport stamps and counting.",
+    "team": "engineering",
+    "role": "Product Manager",
+    "where": "In da clurb"
+  },
+  {
+    "name": "Maia McCormick",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Maia_M.jpg",
+    "bio": "An NYC native, Maia earned a BA in music from Williams College, tripped and fell, and landed in the tech world by way of the Recurse Center. Outside of work, Maia can be found singing Renaissance music, folk-dancing, or eating tasty food.",
+    "team": "engineering",
+    "role": "Software Engineer",
+    "where": "In a pineapple under the sea"
+  },
+  {
+    "name": "Trey Lawrence",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Trey_L.jpg",
+    "bio": "Trey is a recovering hardware engineer, but has now moved on to the softer stuff. He started out in silicon manufacturing, hardware design, and firmware; studied at Hacker School; and was at eBay NYC. He is a craft beer enthusiast and likely the world's best puzzle Bobble player.",
+    "team": "engineering",
+    "role": "Software Engineer",
+    "where": "While WFH"
+  },
+
+  {
+    "name": "Vivian Esquerre",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Vivian_E.jpg",
+    "bio": "Vivian is a graduate of the University of Maryland, College Park. She is a fashion enthusiast and has spent the last 7 years working in luxury retail. Outside of work, Vivian spends her time raising her wonderful daughter Paige and traveling with her family.",
+    "team": "operations",
+    "role": "Customer Service Representative",
+    "where": "everywhere"
+  },
+  {
+    "name": "Wayne Sun",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Wayne_S.jpg",
+    "bio": "Once upon a time, Wayne designed award-winning experiences for Nike, Quirky, Samsung, and Google. Prior to that, he was part of TechStars NYC. He's into product, manufacturing, and design, and he's a big fan of '90s music. He remains the world's longest-lurking redditor.",
+    "team": "design",
+    "role": "Product Designer",
+    "where": "everywhere"
+  },
+  {
+    "name": "Adam Beckerman",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Adam_B.jpg",
+    "bio": "Adam is a veteran innovator in the ecommerce industry. He holds an MBA from Columbia Business School and a BS in Marketing from the Smith School of Business at the University of Maryland, College Park. When not working, he can be found enjoying his family and tinkering with tech.",
+    "team": "engineering",
+    "role": "VP, Platform Integrations",
+    "where": "IRL on my Droid"
+  },
+  {
+    "name": "Maud Pasturaud",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Maud_P.jpg",
+    "bio": "Maud has more than 7 years of experience in growth, having led acquisition, engagement, and monetization initiatives for Gilt, Secret, and Jetsetter. A fashionista at heart, Maud can be found dancing salsa, buying too many shoes, and being super French (she's from Paris and yes it's a full-time job).",
+    "team": "growth",
+    "role": "VP, Growth",
+    "where": "everywhere"
+  },
+  {
+    "name": "Thomas Jeon",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Thomas_J.jpg",
+    "bio": "Thomas is da bomb.",
+    "team": "engineering",
+    "role": "Software Engineer",
+    "where": "everywhere"
+  },
+  {
+    "name": "Alex Routhier",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Alex_R.jpg",
+    "bio": "Alex is a Cal grad, but not an engineer. She went into fashion, and after graduating from Parsons worked at Alexander Wang handling global press, marketing, and collaborations with brands including H&M and BEATS by Dre. Alex has a small denim addiction and enjoys live music and cooking.",
+    "team": "brand",
+    "role": "Brand Curator",
+    "where": "In the bathtub"
+  },
+  {
+    "name": "Courtney Fasciano",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Courtney_F.jpg",
+    "bio": "For the last decade Courtney's name has been on the masthead of fashion publications like T Magazine, Harper's Bazaar, and most recently Marie Claire, where she was the Market Director. She loves looking for the next big thing, talking about skiing, and showing people pictures of her cat Riley.",
+    "team": "brand",
+    "role": "Head of Designer Curation & Brand Partnerships",
+    "where": "On the Treadmill"
+  },
+  {
+    "name": "Amanda Howles",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Amanda_H.jpg",
+    "bio": "Amanda is a Certified Public Accountant in North Carolina and holds a master’s degree in accounting from the University of North Carolina at Chapel Hill. She previously worked at Quintiles and Grant Thornton. When not looking at financial statements, Amanda pretends to be a food and wine aficionado.",
+    "team": "business ops",
+    "role": "Financial Controller",
+    "where": "While waiting for the B train"
+  },
+  {
+    "name": "Jane Shapiro",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Jane_S.jpg",
+    "bio": "Jane has experience in consumer tech and e-commerce having worked in Product at Etsy and at Zynga and earlier in quantitative marketing at Hotwire.com in San Francisco. She earned an MBA from MIT Sloan School of Management and a BA in Economics from McGill University. She loves Broadway musicals and admits to an expertise in pop culture.",
+    "team": "engineering",
+    "role": "Lead Product Manager",
+    "where": "Waiting in line"
+  },
+  {
+    "name": "Max Coulter",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Max_C.jpg",
+    "bio": "After spending time in Healthcare (Siemens) and Finance (Amex), Maximilian decided the next obvious move would be to Fashion! Max loves doing whatever is necessary to get an awesome products to people. Generally, that means pushing pixels by way of bits in Objective-C, GO Lang, or whatever.",
+    "team": "engineering",
+    "role": "Software Engineer",
+    "where": "While waiting on the fashionably late"
+  },
+  {
+    "name": "Ami Domadia",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Ami_D.jpg",
+    "bio": "Recently moved from California where I was working at a software startup called DevonWay.  They built products for the power industry.  I started out in Tech Ops and then moved to Business Delivery and Tech Support team. Originally from Mumbai, India. Majored in Electrical Engineering and Comp. Science from UC Berkeley.  I love hiking, painting, watching tv, board games!",
+    "team": "engineering",
+    "role": "Application Support Engineer",
+    "where": "any where I have network"
+  },
+  {
+    "name": "Amy Lieberthal",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Amy_L.jpg",
+    "bio": "Two truths and a lie. 1. Amy spent 4 years creating ads for brands like BMW, Mercedes-Benz, and Absolut Vodka. 2. She went to the University of Maryland, College Park and then some fancy ad school. 3. She's a dead ringer for Gary Busey. GOOD LUCK, GUYS!",
+    "team": "design",
+    "role": "Senior Copywriter",
+    "where": "In my imaginary bathtub filled with money."
+  },
+  {
+    "name": "Chris Diken",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Chris_D.jpg",
+    "bio": "Chris was born in New Jersey. Not long after, he began to attend school. He soon became an adult and needed money, so he obtained a series of jobs. He continues to work to this day. He is ok at skateboarding.",
+    "team": "design",
+    "role": "VP Brand Communication",
+    "where": "At your mom's house"
+  },
+  {
+    "name": "Joanna Chwastowska",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Joanna.jpg",
+    "bio": "Joanna lives in Krakow, Poland, where she's responsible for building the most awesome remote engineering office for Spring:) Before joining Spring she's been TechLead/Manager at Google, working on variety of Web and Android products.",
+    "team": "engineering",
+    "role": "Krakow Engineering Site Lead",
+    "where": "In Krakow, Poland ;)"
+  },
+  {
+    "name": "John Gold",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/John_G.jpg",
+    "bio": "John is a recent college graduate from Stanford University, where he earned a Bachelors and Masters degree in computer science. While \"studying\" in California he started biking regularly, playing ultimate frisbee, and surfing, all activites he hopes to continue back in New York.",
+    "team": "engineering",
+    "role": "Software Engineer",
+    "where": "In between innings at a baseball game"
+  },
+  {
+    "name": "Latoya Bidding",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Latoya_B.jpg",
+    "bio": "Latoya has a degree in Business Management and has worked as an Executive Assistant and Office Manager since 2006. Latoya enjoys spending time with her two boys and blogging. She is working towards building her brand for mother's looking to become entrepreneurs. Latoya also has a mild addiction to social media.",
+    "team": "operations",
+    "role": "Office Manager",
+    "where": "While riding the train"
+  },
+  {
+    "name": "Lindsay Holmes",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Lindsay_H.jpg",
+    "bio": "Prior to joining Spring, Lindsay was previously leading tech recruiting for the US at Spotify where she built the data science team working on music recommendations. She is a Columbia University graduate, and long-time NYC resident. Lindsay enjoys English Premier League soccer, going to concerts, and brunch, but most of all she loves being a mom to her son Bowie.",
+    "team": "operations",
+    "role": "Recruiting Manager",
+    "where": "First thing in the morning"
+  },
+  {
+    "name": "Maciek Weksej",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Maciek_W.jpg",
+    "bio": "Ex-Googler, majored in Computer Science & Maths at the University of Warsaw. Passionate about outdoor activities, especially mountaineering, rock climbing and ski-touring. Mountain Guide of the Student Mountaineering Club in Warsaw, Poland. He currently lives in Krakow, Poland together with his wife and daughter.",
+    "team": "engineering",
+    "role": "Software Engineer",
+    "where": "When visiting NYC, waiting for the launch in Europe!"
+  },
+  {
+    "name": "Natan Lailari",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Natan_L.jpg",
+    "bio": "Natan is an aspiring fashionista with interests in PL Theory and the logical foundations of computer science. He previously worked on government-related software projects in the DC Area after studying CS at UPenn. When he is not writing code he enjoys reading philosophy and playing sports.",
+    "team": "engineering",
+    "role": "Software Engineer",
+    "where": "Walking through SOHO"
+  },
+  {
+    "name": "Olivia Froislie",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Olivia_F.jpg",
+    "bio": "Olivia is a recent Parsons grad where she studied Fashion Marketing At school, she interned at Tanya Taylor and Marc Jacobs. Prior to moving to New York she worked at Aritzia and Holt Renfrew. Olivia is a Soul Cycle addict but she's also got a thing for anything maple, reflecting her Canadian roots.",
+    "team": "operations",
+    "role": "Customer Service Representative",
+    "where": "I Spring year round"
+  },
+  {
+    "name": "Phil Tang",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Phil_T.jpg",
+    "bio": "Phil spends his days searching the Internet for various animated GIFs, and then posting them in Slack. Occasionally, he makes a joke or two, and, if he’s having a particularly good day, some of the other people on this page might groan. Usually, though, they give him this look: <a href=\"http://i.imgur.com/osVtmxG.gif\" style=\"color: #fff\" target=\"_new\">http://i.imgur.com/osVtmxG.gif</a>",
+    "team": "engineering",
+    "role": "Software Engineer",
+    "where": "On the ski lift"
+  },
+  {
+    "name": "Zach Miller",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Zach_M.jpg",
+    "bio": "Before joining Spring, Zach spent 4 years doing Media & Technology strategy at McKinsey. Before that he led the feature film division at GOOD Inc, where he produced the film THE MESSENGER. He holds an MFA in film from USC and an MBA from Wharton. He lives in NYC with his wife Alissa, their daughter Joey and dog Lou.",
+    "team": "marketing",
+    "role": "VP Commerce Partnerships",
+    "where": "At a show, brah"
+  },
+  {
+    "name": "Sari Poage",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Sari_P.jpg",
+    "bio": "Sari's love of the fashion industry dates back to her childhood, or what her family refers to as her \"Punky Brewster\" days. Since then, Sari has been a Merchandiser at Gap Inc and consultant for McKinsey's Apparel, Fashion & Luxury Goods practice. She has a MBA from Columbia in Retail & Luxury Goods",
+    "team": "operations",
+    "role": "VP Business Strategy",
+    "where": "In bed, right before going to sleep"
+  },
+  {
+    "name": "Siyuan Zhu",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Siyuan_Z.jpg",
+    "bio": "Having spent over 3 years in developing e-commerce platforms for fashion brands including Tag Heuer, Salvatore Ferragamo and DKNY/DonnaKaran, Siyuan decided to embrace the mobile world. He likes soccer, basketball and pingpong, and just started snowboarding.",
+    "team": "engineering",
+    "role": "Integration Engineer",
+    "where": "On my couch"
+  },
+  {
+    "name": "Ellen Pai",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Ellen_P.jpg",
+    "bio": "Born and rasied in Cali, cali, cali. Graduated from Art Center. Lived in SF for awhile. Had too many burritos so moved to NY. Worked on apps & sites for Nike, Equinox, . Her last name is \"Pay\" not \"Pie\".",
+    "team": "design",
+    "role": "Senior Desiger",
+    "where": "When I'm in a \"Treat yo self\" mood"
+  },
+  {
+    "name": "Halley Morrissey",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Halley_M.jpg",
+    "bio": "Halley comes from Lacoste and One Kings Lane. She loves using competitive analysis, market knowledge and an eye for unique product to build out new verticals for startups. Halley often gets out of the city for Diners, Drive-In's and Dives weekends in the country with her husband.",
+    "team": "brand",
+    "role": "Brand Curator",
+    "where": "Sitting shotgun"
+  },
+  {
+    "name": "Helen Copeland",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Helen_C.jpg",
+    "bio": "Helen's worked in ad sales and account management for Ovation and MTV. She went to Tulane and has a pretty extreme obsession with all things NOLA. In her spare time Helen enjoys convincing her friends to go to outdoor concerts with her and jogging in Brooklyn Bridge Park.",
+    "team": "operations",
+    "role": "Brand Manager",
+    "where": "While avoiding selfie taking tourists and crazed bikers on the Brooklyn Bridge"
+  },
+  {
+    "name": "Ja Young Kim",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/JaYoung_K.jpg",
+    "bio": "Ja joined Spring to learn more about design at startups. Prior to joining she worked at many different agencies and studios. She was an avid fan of Michel Gondry and Amelie, but now she searches for her next favorite director and movie.",
+    "team": "design",
+    "role": "Designer",
+    "where": "bathroom"
+  },
+  {
+    "name": "James Redick",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/James_R.jpg",
+    "bio": "James has been accounting for use cases, writing error messages, and designing for companies both large and small. In his spare time, he might be exploring remote upstate back roads via bicycle, jogging, or maybe at home indulging in films.",
+    "team": "design",
+    "role": "Product Designer",
+    "where": "While waiting in line"
+  },
+  {
+    "name": "Mihai Pora",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Mihai_P.jpg",
+    "bio": "Mihai moved from Bucharest to Krakow when Google called and now calls Krakow home. He worked on Google TV's second screen and then built a data warehouse. Be warned: he is a software engineer carrying a screwdriver. He listens to extreme metal which keeps him sane and happy at US border queues.",
+    "team": "engineering",
+    "role": "Software Engineer",
+    "where": "While doing stoppies"
+  },
+  {
+    "name": "Terry Haddock",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Terry_H.jpg",
+    "bio": "",
+    "team": "engineering",
+    "role": "Software Engineer",
+    "where": ""
+  },
+  {
+    "name": "Zbigniew Skolicki",
+    "photo": "https://s3.amazonaws.com/static.shopspring.com/www.shopspring.com/img/team/Zbigniew_S.jpg",
+    "bio": "After spending a few years analyzing evolutionary algorithms for his PhD, Zbigniew decided to enjoy California under a cover of working for Google. He later moved back to his hometown, Krakow, where he still lives curiously observing the evolving world, and eating sweets. Also likes outdoors.",
+    "team": "engineering",
+    "role": "Software Engineer",
+    "where": "At work!"
+  },
+  {
+    "name": "Gizmo Dog",
+    "photo": "https://i.imgur.com/r9M3irc.jpg",
+    "bio": "Gizmo is a dog. In New York, he completed an extensive training program covering wide ranging topics such as sitting, laying down, and pounding it. These days, his focus has shifted towards sitting on laps, and chasing Pearl around the office.",
+    "team": "engineering",
+    "role": "Data Operations Guru",
+    "where": "💩"
+  }
+]

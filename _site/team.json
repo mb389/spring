@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Puppy 1",
+    "photo": "http://www.pawderosa.com/images/puppies.jpg",
+    "bio": "Puppy started this thing.",
+    "team": "founders",
+    "role": "CEO",
+    "where": "On the floor"
+  },
+  {
+    "name": "Puppy 2",
+    "photo": "https://pbs.twimg.com/profile_images/497043545505947648/ESngUXG0.jpeg",
+    "bio": "Bark.",
+    "team": "operations",
+    "role": "Brand Specialist",
+    "where": "everywhere"
+  },
+  {
+    "name": "Puppy 3",
+    "photo": "https://pbs.twimg.com/media/B7GTnoyIYAE9maX.jpg",
+    "bio": "Bark.",
+    "team": "engineering",
+    "role": "Product Manager",
+    "where": "Bark Bark"
+  },
+  {
+    "name": "Puppy 4",
+    "photo": "http://cdn.sheknows.com/articles/2013/04/Photo_1.jpg",
+    "bio": "Bark",
+    "team": "marketing",
+    "role": "Head of Digital",
+    "where": "WOOF"
+  },
+  {
+    "name": "Puppy 5",
+    "photo": "http://images.boomsbeat.com/data/images/full/18307/puppy_1-jpg.jpg",
+    "bio": "Woof woof woof!",
+    "team": "brand",
+    "role": "Brand Officer",
+    "where": "Woof"
+  },
+  {
+    "name": "Puppy 6",
+    "photo": "http://www.scifiwright.com/wp-content/uploads/2015/02/sad-puppy-wallpaper.jpg",
+    "bio": "Ruff ruff ruff.",
+    "team": "design",
+    "role": "Product Design",
+    "where": "In the dog house."
+  }
+]
