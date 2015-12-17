@@ -117,7 +117,7 @@ label {
  * Basis Styling
  */
 body {
-  font-family: 'Gotham A', 'Gotham B';
+  font-family:'Playfair Display', serif;
   font-weight: 400;
   font-style: normal;
   font-size: 16px;
@@ -456,10 +456,8 @@ header {
     margin-top: 2px;
     overflow: hidden;
     text-indent: 100%;
-    background: url(/img/logo-light.svg) no-repeat;
     background-size: 90px; }
     header .logo:hover {
-      background: url(/img/logohover.svg) no-repeat;
       background-size: 90px; }
   header a.hiring {
     opacity: 1;
@@ -617,7 +615,7 @@ footer {
     margin-top: 2px; }
 
 footer nav {
-  font-family: 'Gotham A', 'Gotham B';
+  font-family: 'Playfair Display', serif;
   font-weight: 400;
   font-style: normal;
   text-transform: uppercase; }
@@ -631,7 +629,7 @@ footer nav ul {
 
 footer .nav {
   color: #999;
-  font-family: 'Gotham A', 'Gotham B';
+  font-family: 'Playfair Display', serif;
   font-weight: 400;
   font-style: normal; }
 
@@ -644,7 +642,7 @@ footer a {
     color: #3B8FFF; }
 
 footer h3 {
-  font-family: 'Gotham A', 'Gotham B';
+  font-family: 'Playfair Display', serif;
   font-weight: 500;
   font-style: normal;
   margin-bottom: 1em; }
